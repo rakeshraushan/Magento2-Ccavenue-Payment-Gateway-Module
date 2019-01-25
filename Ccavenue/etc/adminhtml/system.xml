@@ -2,7 +2,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
 	<system>
 		<tab id="magekmf_ccavenue_tab" translate="label" sortOrder="500">
-            <label>Keep Moving Forward</label>
+            <label>CCAvenue Payment</label>
         </tab>
         <section id="magekmf" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
             <label>CCAvenue Payment Method</label>
